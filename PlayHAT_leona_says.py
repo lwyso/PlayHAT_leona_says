@@ -1,7 +1,7 @@
 ## LEONA SAYS
 
 ## 2 player game - Player 1 will press a sequence of buttons
-## and set i action a sequence of lights.
+## and set in action a sequence of lights.
 ## Player 2 observes the light sequence then attempts
 ## to copy the sequence by pressing buttons
 ## If correct a celebratory sequnce of lights plays
